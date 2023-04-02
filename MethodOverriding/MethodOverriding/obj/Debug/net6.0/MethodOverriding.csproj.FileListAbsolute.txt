@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodOverriding\MethodOverriding\bin\Debug\net6.0\MethodOverriding.exe
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodOverriding\MethodOverriding\bin\Debug\net6.0\MethodOverriding.deps.json
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodOverriding\MethodOverriding\bin\Debug\net6.0\MethodOverriding.runtimeconfig.json
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodOverriding\MethodOverriding\bin\Debug\net6.0\MethodOverriding.dll
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodOverriding\MethodOverriding\bin\Debug\net6.0\MethodOverriding.pdb
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodOverriding\MethodOverriding\obj\Debug\net6.0\MethodOverriding.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodOverriding\MethodOverriding\obj\Debug\net6.0\MethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodOverriding\MethodOverriding\obj\Debug\net6.0\MethodOverriding.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodOverriding\MethodOverriding\obj\Debug\net6.0\MethodOverriding.AssemblyInfo.cs
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodOverriding\MethodOverriding\obj\Debug\net6.0\MethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodOverriding\MethodOverriding\obj\Debug\net6.0\MethodOverriding.dll
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodOverriding\MethodOverriding\obj\Debug\net6.0\refint\MethodOverriding.dll
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodOverriding\MethodOverriding\obj\Debug\net6.0\MethodOverriding.pdb
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodOverriding\MethodOverriding\obj\Debug\net6.0\MethodOverriding.genruntimeconfig.cache
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodOverriding\MethodOverriding\obj\Debug\net6.0\ref\MethodOverriding.dll
