@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodTypes\MethodTypes\bin\Debug\net6.0\MethodTypes.exe
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodTypes\MethodTypes\bin\Debug\net6.0\MethodTypes.deps.json
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodTypes\MethodTypes\bin\Debug\net6.0\MethodTypes.runtimeconfig.json
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodTypes\MethodTypes\bin\Debug\net6.0\MethodTypes.dll
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodTypes\MethodTypes\bin\Debug\net6.0\MethodTypes.pdb
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodTypes\MethodTypes\obj\Debug\net6.0\MethodTypes.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodTypes\MethodTypes\obj\Debug\net6.0\MethodTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodTypes\MethodTypes\obj\Debug\net6.0\MethodTypes.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodTypes\MethodTypes\obj\Debug\net6.0\MethodTypes.AssemblyInfo.cs
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodTypes\MethodTypes\obj\Debug\net6.0\MethodTypes.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodTypes\MethodTypes\obj\Debug\net6.0\MethodTypes.dll
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodTypes\MethodTypes\obj\Debug\net6.0\refint\MethodTypes.dll
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodTypes\MethodTypes\obj\Debug\net6.0\MethodTypes.pdb
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodTypes\MethodTypes\obj\Debug\net6.0\MethodTypes.genruntimeconfig.cache
+C:\Users\USER\source\BL\SampleOOPsConcepts\SampleOOPsConcepts\MethodTypes\MethodTypes\obj\Debug\net6.0\ref\MethodTypes.dll
