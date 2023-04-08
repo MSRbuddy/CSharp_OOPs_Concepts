@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\SampleOOPsConcepts\TypesOfInheritance\TypesOfInheritance\bin\Debug\net6.0\TypesOfInheritance.exe
+C:\Users\USER\source\BL\SampleOOPsConcepts\TypesOfInheritance\TypesOfInheritance\bin\Debug\net6.0\TypesOfInheritance.deps.json
+C:\Users\USER\source\BL\SampleOOPsConcepts\TypesOfInheritance\TypesOfInheritance\bin\Debug\net6.0\TypesOfInheritance.runtimeconfig.json
+C:\Users\USER\source\BL\SampleOOPsConcepts\TypesOfInheritance\TypesOfInheritance\bin\Debug\net6.0\TypesOfInheritance.dll
+C:\Users\USER\source\BL\SampleOOPsConcepts\TypesOfInheritance\TypesOfInheritance\bin\Debug\net6.0\TypesOfInheritance.pdb
+C:\Users\USER\source\BL\SampleOOPsConcepts\TypesOfInheritance\TypesOfInheritance\obj\Debug\net6.0\TypesOfInheritance.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\SampleOOPsConcepts\TypesOfInheritance\TypesOfInheritance\obj\Debug\net6.0\TypesOfInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\SampleOOPsConcepts\TypesOfInheritance\TypesOfInheritance\obj\Debug\net6.0\TypesOfInheritance.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\SampleOOPsConcepts\TypesOfInheritance\TypesOfInheritance\obj\Debug\net6.0\TypesOfInheritance.AssemblyInfo.cs
+C:\Users\USER\source\BL\SampleOOPsConcepts\TypesOfInheritance\TypesOfInheritance\obj\Debug\net6.0\TypesOfInheritance.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\SampleOOPsConcepts\TypesOfInheritance\TypesOfInheritance\obj\Debug\net6.0\TypesOfInheritance.dll
+C:\Users\USER\source\BL\SampleOOPsConcepts\TypesOfInheritance\TypesOfInheritance\obj\Debug\net6.0\refint\TypesOfInheritance.dll
+C:\Users\USER\source\BL\SampleOOPsConcepts\TypesOfInheritance\TypesOfInheritance\obj\Debug\net6.0\TypesOfInheritance.pdb
+C:\Users\USER\source\BL\SampleOOPsConcepts\TypesOfInheritance\TypesOfInheritance\obj\Debug\net6.0\TypesOfInheritance.genruntimeconfig.cache
+C:\Users\USER\source\BL\SampleOOPsConcepts\TypesOfInheritance\TypesOfInheritance\obj\Debug\net6.0\ref\TypesOfInheritance.dll
