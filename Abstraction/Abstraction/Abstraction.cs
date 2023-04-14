@@ -19,7 +19,7 @@
     {
         static void Main(string[] args)
         {
-            // create an object of Dog class
+            // create an object of TextBook class
             TextBook obj = new TextBook();
             obj.bookSubject();
         }
